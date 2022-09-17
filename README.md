@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-
-
-- 👨🏽‍🎓 I enjoy coding helping
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning MERN STACK 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about My Project
+- 👨🏽‍🎓 I enjoy coding
+- 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me: Linked In
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
