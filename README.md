@@ -2,8 +2,8 @@
 
 - 👨🏽‍🎓 I enjoy coding
 - 🌱 I’m currently learning MERN STACK
-M
-E
-R
-N
+-M
+-E
+-R
+-N
 -->
